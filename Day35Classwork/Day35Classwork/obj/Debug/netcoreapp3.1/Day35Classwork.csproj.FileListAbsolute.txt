@@ -1,0 +1,13 @@
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\bin\Debug\netcoreapp3.1\Day35Classwork.exe
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\bin\Debug\netcoreapp3.1\Day35Classwork.deps.json
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\bin\Debug\netcoreapp3.1\Day35Classwork.runtimeconfig.json
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\bin\Debug\netcoreapp3.1\Day35Classwork.runtimeconfig.dev.json
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\bin\Debug\netcoreapp3.1\Day35Classwork.dll
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\bin\Debug\netcoreapp3.1\Day35Classwork.pdb
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\obj\Debug\netcoreapp3.1\Day35Classwork.csproj.AssemblyReference.cache
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\obj\Debug\netcoreapp3.1\Day35Classwork.AssemblyInfoInputs.cache
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\obj\Debug\netcoreapp3.1\Day35Classwork.AssemblyInfo.cs
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\obj\Debug\netcoreapp3.1\Day35Classwork.csproj.CoreCompileInputs.cache
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\obj\Debug\netcoreapp3.1\Day35Classwork.dll
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\obj\Debug\netcoreapp3.1\Day35Classwork.pdb
+C:\Users\suchi\OneDrive\Documents\BridgeLbaz Assignments\Day 35 Classwork And Assignments\Day35Classwork\Day35Classwork\obj\Debug\netcoreapp3.1\Day35Classwork.genruntimeconfig.cache
